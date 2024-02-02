@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Baby Dolls",
+    "image": "https://i.ibb.co/Ld70wkw/pngtree-little-baby-doll-baby-pregnant-infant-diapers-children-women-cartoon-png-image-2611501.jpg",
+    "name": "Sweetie Pie",
+    "price": 19.99,
+    "rating": 4.5,
+    "quantity": 10,
+    "seller": "Raihan Sharif",
+    "sellerEmail": "toyland@example.com",
+    "details": "Cute baby doll with realistic eyes and interactive functions. Comes with a set of accessories.",
+    "sellerPhoto": "https://avatars.githubusercontent.com/u/109515629?s=400&u=e8f07cfccfb9e6a78c2c0a0ed3980e4d0530669e&v=4"
+  },
+  {
+    "category": "Baby Dolls",
+    "image": "https://i.ibb.co/S706q2g/pngtree-mother-child-baby-diaper-children-s-day-children-cartoon-characters-children-png-image-44356.png",
+    "name": "Little Sunshine",
+    "price": 24.99,
+    "rating": 4.2,
+    "quantity": 5,
+    "seller": "Mahin Haven",
+    "sellerEmail": "toyland@example.com",
+    "details": "Cute baby doll with realistic eyes and interactive functions. Comes with a set of accessories.",
+    "sellerPhoto": "https://avatars.githubusercontent.com/u/109515629?s=400&u=e8f07cfccfb9e6a78c2c0a0ed3980e4d0530669e&v=4"
+  },
+  {
+    "category": "Barbie Dolls",
+    "image": "https://i.ibb.co/hs5J3SP/png-transparent-doll-toy-doll-miscellaneous-child-girls-thumbnail.png",
+    "name": "Fashionista Glam",
+    "price": 29.99,
+    "rating": 4.8,
+    "quantity": 8,
+    "seller": "Dream Dolls",
+    "sellerEmail": "toyland@example.com",
+    "details": "Magical princess Barbie doll with a beautiful gown and royal accessories. Sparkle and imagination.",
+    "sellerPhoto": "https://avatars.githubusercontent.com/u/109515629?s=400&u=e8f07cfccfb9e6a78c2c0a0ed3980e4d0530669e&v=4"
+  },
+  {
+    "category": "Barbie Dolls",
+    "image": "bhttps://i.ibb.co/0m027f9/png-transparent-girl-wearing-pink-dress-soft-doll-doll-toy-t-shirt-child-doll-miscellaneous-toddler.png",
+    "name": "Princess Dream",
+    "price": 34.99,
+    "rating": 4.6,
+    "quantity": 3,
+    "seller": "Toy Galaxy",
+    "sellerEmail": "toyland@example.com",
+    "details": "Magical princess Barbie doll with a beautiful gown and royal accessories. Sparkle and imagination.",
+    "sellerPhoto": "https://avatars.githubusercontent.com/u/109515629?s=400&u=e8f07cfccfb9e6a78c2c0a0ed3980e4d0530669e&v=4"
+  },
+  {
+    "category": "American Girl Dolls",
+    "image": "https://i.ibb.co/WVQ9VdZ/1.png",
+    "name": "Graceful Grace",
+    "price": 59.99,
+    "rating": 4.9,
+    "quantity": 12,
+    "seller": "American Doll Boutique",
+    "sellerEmail": "toyland@example.com",
+    "details": "Elegant American Girl doll with high-quality craftsmanship and a variety of outfits to choose from.",
+    "sellerPhoto": "https://avatars.githubusercontent.com/u/109515629?s=400&u=e8f07cfccfb9e6a78c2c0a0ed3980e4d0530669e&v=4"
+  },
+  {
+    "category": "American Girl Dolls",
+    "image": "https://i.ibb.co/hFjtxdH/28984-3-doll-picture-thumb.png",
+    "name": "Charming Charlotte",
+    "price": 64.99,
+    "rating": 4.7,
+    "quantity": 7,
+    "seller": "Playtime Treasures",
+    "sellerEmail": "toyland@example.com",
+    "details": "Lovely American Girl doll with realistic hair and lifelike features. Includes an accessory set.",
+    "sellerPhoto": "https://avatars.githubusercontent.com/u/109515629?s=400&u=e8f07cfccfb9e6a78c2c0a0ed3980e4d0530669e&v=4"
+  }
+]
